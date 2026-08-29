@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "full_name": "Alex Morgan",
+    "email": "admin@visionx.io",
+    "role": "admin",
+    "active": true,
+    "color": "#6366f1",
+    "password": ""
+  },
+  {
+    "id": 2,
+    "username": "aisyah",
+    "full_name": "Aisyah Rahman",
+    "email": "aisyah@visionx.io",
+    "role": "supervisor",
+    "active": true,
+    "color": "#8b5cf6",
+    "password": ""
+  },
+  {
+    "id": 3,
+    "username": "tech01",
+    "full_name": "Daniel Lee",
+    "email": "daniel@visionx.io",
+    "role": "technician",
+    "active": true,
+    "color": "#06b6d4",
+    "password": ""
+  },
+  {
+    "id": 4,
+    "username": "view",
+    "full_name": "Sara Lim",
+    "email": "sara@visionx.io",
+    "role": "viewer",
+    "active": true,
+    "color": "#f59e0b",
+    "password": ""
+  }
+]
